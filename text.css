@@ -1,0 +1,49 @@
+.text-info{
+  font-family:Roboto;
+  font-size:20px;
+  font-weight:bold;
+  width:280px;
+  line-height:25px;
+  margin-bottom:0;
+
+}
+.sub-info{
+  font-family:Roboto;
+  font-size:14px;
+  color:gray;
+  margin-top:0;
+  margin-top:6px;
+  margin-bottom:0;
+}
+.text-name{
+  font-family:Roboto;
+  font-size:14px;
+  color: gray;
+  margin-top:0;
+  margin-top:20;
+  margin-bottom:0;
+}
+.text-descrip{
+  font-family:Roboto;
+  font-size:14px;
+  color: gray;
+  width:280px;
+  margin-top:0;
+  margin-top:20;
+  line-height:20px;
+  width:260;
+}
+.apple-logo{
+  background-color:red;
+  color:white;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  padding-right:10px;
+  text-align:center;
+}
+
+.undr:hover {
+cursor:pointer;
+text-decoration:underline;
+}

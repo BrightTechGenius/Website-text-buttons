@@ -1,0 +1,85 @@
+
+
+  .subscribe {
+    background-color:rgb(195, 34, 34);
+    color:white;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border:none;
+    border-radius:2px;
+    font-family:Arial;
+    cursor:pointer;
+    transition: opacity 0.15s;
+    }
+    
+    .subscribe:hover {
+      opacity:0.8;
+      
+    }
+    .subscribe:active {
+      opacity:0.5;
+    }
+    
+    .join {
+    color:rgb(19, 19, 172);
+    background-color:white;
+    font-family:arial;
+    border-radius:2px;
+    border-style:solid;
+    border-color:rgb(22, 22, 107);
+    border-width:1px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    cursor:pointer;
+    margin-left:10px;
+    transition:background-color 0.15s, color 1s;
+    }
+    
+    .join:hover {
+      background-color:rgb(19, 19, 172);
+      color:white;
+    
+    }
+    .join:active {
+    opacity:0.6;
+    }
+    
+    .tweet {
+    background-color:rgb(2, 158, 255);
+    color:white;
+    font-family:arial;
+    margin-left:10px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    cursor:pointer;
+    border-radius:20px;
+    border:none;
+    font-weight:bold;
+    transition: background-color 0.15s; 
+    }
+    .tweet:hover {
+      box-shadow:5px 5px 10px rgba(0, 0, 0, 0.15)
+    }
+    
+    .shop {
+    background-color:red;
+    color:white;
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    }
+    .shopn{
+      cursor:pointer;
+    }
+    
+    .shopn:hover {
+    text-decoration:underline;
+    }
